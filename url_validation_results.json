@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.google.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:27:03.689Z"
+  },
+  {
+    "url": "https://www.googlecom",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:27:19.565Z"
+  },
+  {
+    "url": "https://www.googlecom",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:31:10.918Z"
+  },
+  {
+    "url": "https://example.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:31:33.947Z"
+  },
+  {
+    "url": "invalid-url",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:31:59.088Z"
+  },
+  {
+    "url": "www.hani.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:32:32.405Z"
+  },
+  {
+    "url": "hani.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:32:53.421Z"
+  },
+  {
+    "url": "invalid-url",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:33:02.195Z"
+  },
+  {
+    "url": "valid-url",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:33:12.880Z"
+  },
+  {
+    "url": "w.valid-url",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:33:40.345Z"
+  },
+  {
+    "url": "https://www.googlecom",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:34:03.108Z"
+  },
+  {
+    "url": "https://pranavfaladu.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:35:19.343Z"
+  },
+  {
+    "url": "https://pranavfaladcom",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:35:26.217Z"
+  },
+  {
+    "url": "https://googlecom",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:35:42.010Z"
+  },
+  {
+    "url": "https://linkedin.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:36:27.676Z"
+  },
+  {
+    "url": "https://hanicom",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:36:36.943Z"
+  }
+]
